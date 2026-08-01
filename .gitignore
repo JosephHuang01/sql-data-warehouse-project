@@ -1,0 +1,60 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# SQL Server / Database project
+*.mdf
+*.ndf
+*.ldf
+*.bak
+*.dbmdl
+*.dacpac
+*.publish.xml
+*.sqlproj.user
+
+# SSMS and tools
+*.sqlplan
+*.trc
+
+# Logs
+*.log
+
+# Debug / profiling
+*.pdb
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Environment / local settings
+.env
+appsettings.*.Local.json
+
+# Rider / ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Temporary files
+~$*
+*.tmp
+
+# Ignore node modules if present in repo
+node_modules/
+
+# Packages
+*.nupkg
+packages/
+
+# Git
+#.gitignore
