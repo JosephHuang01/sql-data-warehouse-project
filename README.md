@@ -2,9 +2,9 @@
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
 
-This project represents a significant portfolio initiative I have been building over the course of many weeks as a recent college graduate. It reflects my effort to expand, develop, and present my skills, talent, and knowledge in data engineering, SQL development, analytics, and data warehousing. Through this project, I have translated classroom learning into a practical, end-to-end solution that highlights both my technical foundation and my potential for professional growth.
+This project represents a significant portfolio initiative I have been building over the course of many weeks. It reflects my effort to expand, develop, and present my skills, talent, and knowledge in data engineering, SQL development, analytics, and data warehousing. Through this project, I have translated classroom learning into a practical, end-to-end solution that highlights both my technical foundation and my potential for professional growth.
 
-This repository showcases a comprehensive data warehousing and analytics solution, from ingestion and transformation to data modeling and business reporting. I am proud to share it with curious employers, collaborators, and anyone interested in exploring the code, architecture, and reasoning behind this work.
+This repository showcases a comprehensive data warehousing and analytics solution, from ingestion and transformation to data modeling and business reporting.
 
 ---
 
@@ -42,6 +42,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About me
 
-Hello there! I'm **Joseph Huang**, a recent college graduate passionate about data, analytics, and technology. Over the past several weeks, I have built this data warehouse as a substantial project to continue expanding my knowledge, developing my skills, and presenting my talent and work to the world.
+Hello there! I'm **Joseph Huang**, a fellow IT enthusiast passionate about data, analytics, and technology. Over the past several weeks, I have built this data warehouse as a substantial project to continue expanding my knowledge, developing my skills, and presenting my talent and work to the world.
 
 This repository reflects my growth as a developing technology professional and demonstrates the hands-on experience I have gained through building a real-world data solution from the ground up. I am excited to share this project with curious employers and anyone interested in exploring the code, design, and technical reasoning behind it.
