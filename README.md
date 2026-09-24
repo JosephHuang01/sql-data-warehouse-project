@@ -38,8 +38,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ## 🛡️ License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-
+This project is licensed under the [MIT License](LICENSE).
 ## 🌟 About me
 
 Hello there! I'm **Joseph Huang**, a fellow IT enthusiast passionate about data, analytics, and technology. Over the past several weeks, I have built this data warehouse as a substantial project to continue expanding my knowledge, developing my skills, and presenting my talent and work to the world.
