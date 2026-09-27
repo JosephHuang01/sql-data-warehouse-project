@@ -2,9 +2,9 @@
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
 
-This project represents a significant portfolio initiative I have been building over the course of many weeks. It reflects my effort to expand, develop, and present my skills, talent, and knowledge in data engineering, SQL development, analytics, and data warehousing. Through this project, I have translated classroom learning into a practical, end-to-end solution that highlights both my technical foundation and my potential for professional growth.
+This solution demonstrates a complete end‑to‑end data warehousing pipeline built on Microsoft SQL Server using T‑SQL for ingestion, transformation, modeling, and reporting.
 
-This repository showcases a comprehensive data warehousing and analytics solution, from ingestion and transformation to data modeling and business reporting.
+Course: Data with Baraa, SQL Full Course (30 hours) From Zero to Hero, https://www.youtube.com/watch?v=SSKVgrwhzus
 
 ---
 
@@ -41,6 +41,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 This project is licensed under the [MIT License](LICENSE).
 ## 🌟 About me
 
-Hello there! I'm **Joseph Huang**, a fellow IT enthusiast passionate about data, analytics, and technology. Over the past several weeks, I have built this data warehouse as a substantial project to continue expanding my knowledge, developing my skills, and presenting my talent and work to the world.
+Hello there! I'm **Joseph Huang**, a fellow IT enthusiast passionate about data, analytics, and technology.
 
-This repository reflects my growth as a developing technology professional and demonstrates the hands-on experience I have gained through building a real-world data solution from the ground up. I am excited to share this project with curious employers and anyone interested in exploring the code, design, and technical reasoning behind it.
+Please connect with me on LinkedIn: https://www.linkedin.com/in/huang-joseph/
